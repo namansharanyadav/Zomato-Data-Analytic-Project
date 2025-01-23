@@ -1,4 +1,4 @@
-Zomato Data Analytic Project
+Zomato Data Analytic Project:-
 The Zomato Data Analytic Project is an extensive analysis and visualization project aimed at leveraging data from Zomato, one of the world's leading restaurant aggregators and food delivery services. The primary objective of this project is to provide insightful data-driven solutions that can aid various stakeholders, including restaurant owners, food enthusiasts, and market analysts, in making informed decisions.
 
 Project Overview: This project involves the extraction, cleaning, analysis, and visualization of a comprehensive dataset obtained from Zomato. The dataset encompasses a wide range of information such as restaurant details, location, cuisines offered, user ratings, reviews, and cost information. By delving into this rich dataset, the project seeks to uncover patterns and trends that can provide actionable insights into the food and restaurant industry.
